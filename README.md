@@ -22,8 +22,7 @@ Este é um projeto web simples que permite adicionar, editar, excluir e filtrar 
 ## Como executar localmente
 
 ### Pré-requisitos:
-- Node.js instalado na sua máquina (versão 14.x ou superior)
-
+- Node.js instalado.
 ### Passos:
 
 1. Clone o repositório:
