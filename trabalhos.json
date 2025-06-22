@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "CRUD DO ALEX E JULIAO",
+    "descricao": "faca um crud blablabla foi bem legal fazer isso",
+    "disciplina": "webdesign e ldp2",
+    "dataEntrega": "2025-06-23"
+  },
+  {
+    "id": 2,
+    "titulo": "AT-ALEX-CRUD",
+    "descricao": "vai ser dificil lembrar de tudo",
+    "disciplina": "LINGUAGEM DE PROGRAMACAO 2",
+    "dataEntrega": "2025-08-10"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "ac2-webdesign",
+  "version": "1.0.0",
+  "description": "projeto web simples para cadastro, edição, exclusão e filtragem de trabalhos escolares.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
