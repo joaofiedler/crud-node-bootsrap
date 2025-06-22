@@ -19,7 +19,7 @@ Este é um projeto web simples que permite adicionar, editar, excluir e filtrar 
 
 ---
 
-## 🚀 Como executar localmente
+## Como executar localmente
 
 ### Pré-requisitos:
 - Node.js instalado na sua máquina (versão 14.x ou superior)
@@ -58,6 +58,6 @@ http://localhost:3000
 
 ---
 
-## ✨ Autor
+## Autor
 
-Feito com 💙 por João Fiedler
+Feito com ❤️ por João Fiedler
