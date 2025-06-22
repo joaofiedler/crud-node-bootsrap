@@ -58,6 +58,6 @@ http://localhost:3000
 
 ---
 
-## Autor
+## ⭐️
 
-Feito com ❤️ por João Fiedler
+Give it a star
